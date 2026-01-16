@@ -64,6 +64,7 @@ Influenza-Epidemic-Data-Analysis-Public/
 git clone https://github.com/DavidPanGithub/Influenza-Epidemic-Data-Analysis-Public.git
 cd Influenza-Epidemic-Data-Analysis-Public
 pip install -r requirements.txt
+```
 
 ## 📈 Research Findings: Impact of Border Reopening on Google Trends Predictability
 
